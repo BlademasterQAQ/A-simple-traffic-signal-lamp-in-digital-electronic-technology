@@ -1,0 +1,60 @@
+Quartus II 64-Bit
+Version 9.1 Build 350 03/24/2010 Service Pack 2 SJ Full Version
+45
+3366
+OFF
+OFF
+OFF
+ON
+ON
+OFF
+FV_OFF
+Level2
+0
+0
+VRSM_ON
+VHSM_ON
+0
+-- Start Library Paths --
+-- End Library Paths --
+-- Start VHDL Libraries --
+-- End VHDL Libraries --
+# entity
+7473
+# storage
+db|project1.(1).cnf
+db|project1.(1).cnf
+# case_insensitive
+# source_file
+|quartus9.1|quartus|libraries|others|maxplus2|7473.bdf
+ddfa156dd03e91d0c3e8acff63db47
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# macro_sequence
+
+# end
+# entity
+project1
+# storage
+db|project1.(0).cnf
+db|project1.(0).cnf
+# case_insensitive
+# source_file
+project1.bdf
+b281bac498dd358dcb9b8d98ad9ef4
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+|
+}
+# macro_sequence
+
+# end
+# complete
+
